@@ -1,16 +1,16 @@
 {
-  "totalReceived": 728,
-  "totalResponded": 187,
+  "totalReceived": 749,
+  "totalResponded": 198,
   "keywords": {
     "info": 80,
-    "hola": 0,
+    "hola": 4,
     "estoy": 0
   },
   "programInquiries": {
     "POWER BI": 7,
-    "SAP HANA MM": 8,
+    "SAP HANA MM": 9,
     "PYTHON. DATOS": 2,
-    "ESPEC. EXCEL": 5,
+    "ESPEC. EXCEL": 6,
     "DIP SUPPLY V3": 2,
     "PEE ANALIST DATOS": 4,
     "SAP HANA SD": 1,
@@ -37,10 +37,10 @@
     "GER. CENTRO DISTRIB.": 1,
     "ESP. SQL SERVER": 3,
     "SAP HANA HCM": 2,
-    "DIP INTELIG. Y ANALIST. DATOS V2": 1,
+    "DIP INTELIG. Y ANALIST. DATOS V2": 2,
     "SQL PRESENCIAL": 1,
     "ESP. EN PYTHON DATA SCIENCE": 1,
     "ESP. MACROS": 1,
-    "ESP. POWER APPS Y AUT.": 1
+    "ESP. POWER APPS Y AUT.": 2
   }
 }
