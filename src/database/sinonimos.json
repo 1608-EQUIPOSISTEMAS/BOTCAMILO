@@ -1,5 +1,6 @@
 {
     "DIP INTELIG. Y ANALIST. DATOS V2": ["Inteligencia y Análisis de Datos","diplo int","dip int","diplo de int","dip de intel","diplomado en Inteligencia y Análisis de Datos","Diplomado Inteligencia y Análisis Datos"],    
+    "DIP SUPPLY V3": ["dip supply","diplo supply","Diplomado Supply Chain Management"],
     "ESP. EN PYTHON DATA SCIENCE": ["especialización Python Data Science","Especialización en Python Data Science"],
     "ESP. EXCEL EXP": ["especialización en Excel Expert","Especialización Excel Expert"],
     "ESP. FRONTEND": ["especialización Front End: Desarrollo Web","especialización Front End: Desarrollo Web"],
@@ -10,7 +11,6 @@
     "ESP. SQL SERVER": ["especialización en SQL Server"],
     "ESPEC. EXCEL": ["especialización en Excel","Especialización en Microsoft Excel","Especialización Excel","especialización en *Excel*"],
     "MODEL BIZ.": ["Bizagi","Modelamiento de Procesos con BIZAGI"],
-    "SQL PRESENCIAL":["SQL Presencial","SQL Server presencial"],
     "SAP HANA MM":["Sap Hana MM","SAP mm"],
     "EXCEL AVANZ":["Excel avanzado"]
   }
